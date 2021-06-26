@@ -791,4 +791,5 @@ Python为什么会有这么强烈的增长趋势？人工智能，无疑是现�
 3.  The Developer Ecosystem in 2020: How C++ is Doing https://blog.jetbrains.com/clion/2020/06/dev-eco-cpp-2020/，作者：Anastasia Kazakova
 4.  C++ Language: Features, Uses, Applications & Advantages https://hackr.io/blog/features-uses-applications-of-c-plus-plus-language，作者：Aman Goel
 5.  Top 10 In-Demand programming languages to learn in 2020 https://towardsdatascience.com/top-10-in-demand-programming-languages-to-learn-in-2020-4462eb7d8d3e，作者：Md Kamaruzzaman
+6.  
 
