@@ -784,6 +784,66 @@ Python为什么会有这么强烈的增长趋势？人工智能，无疑是现�
 
 
 
+## Kotlin
+
+Kotlin正在崛起，十年前，Kotlin只是俄罗斯的一个岛屿，而今，它还是一门编程语言，Kotlin之所以能一跃成名，都要归功于谷歌将其定义为Android 的“一级”开发语言。
+
+在JetBrains的开发者调查中，开发者们首先推荐Kotlin用于Android和服务器端开发。每5个用户就会推荐它进行多平台开发，因此在2020年的调查中，Kotlin最主要应用在信息技术、软件开发领域
+
+![](programming language white paper/2021-06-26 10-52-28屏幕截图.png)
+
+这也是Kotlin朝着换掉Java在Android上的头把交椅而努力的结果。
+
+在开发效率上，Kotlin相对Java开发效率的确提升不少，并且Kotlin更为安全。
+
+最初，Kotlin团队最初是希望找到一门没有历史包袱、比Java更好用的编程语言，最初他们发现Scala符合要求，但遗憾的是，Scala的编译速度缓慢，因此他们决定开发Kotlin，与Scala不同的是，Kotlin语言是由JetBrain开发团队研发，他们是全球最好用的Java IDE的开发者。Kotlin语言可以优先获得IDE的支持，这将是得天独厚的优势。
+
+除了在IDE上的优势，还有Kotlin语言本身的简洁性也吸引着一大波开发者想要去学习Kotlin
+
+![](programming language white paper/2021-06-26 11-27-47屏幕截图.png)
+
+这里可以看见，想要学习Kotlin的人已经超过了Java！
+
+我们也可以通过观察第一次学习Kotlin的情况来看，有76%的开发者表示在学校里学习的Kotlin语言，说明在未来会有大量的掌握着Kotlin的开发者涌入社会。
+
+![](programming language white paper/2021-06-26 11-41-09屏幕截图.png)
+
+
+
+以目前Kotlin语言的发展现状上来看，Kotlin在各项指数上涨幅都比较猛，但是java发展了20多年， 在稳定性、类库、设计模式、开发流程等等方面都是 kotlin 现在阶段所不具备的，所以让现有公司的较大 java 项目切换到 kotlin 平台估计还需要一段时间。
+
+但是在未来，Kotlin语言还是有可能取代Java，成为历史上唯一一个超越Java的JVM编程语言。或者至少它极有可能拥有比其它JVM编程语言更广泛的市场份额。
+
+
+
+## TypeScript
+
+在这里，我们将Typescript也称之为编程语言，它是JavaScript的一个超集，一些开发人员认为它并不是一门“完整”的编程语言，因为它可以被转换成JavaScript 。
+
+无论你如何定它，在RedMonk和GitHub的月度报告上，对Typescript的评级都是快速增长，TIOBE也曾暗示TypeScript甚至开始蚕食JavaScript的市场份额。
+
+![](programming language white paper/rankings-over-time-2021-01.png)
+
+不少人对TypeScript的快速增长表示兴奋也表示在意料之中，RedMonk的共同创始人也曾在twiter上表示，**在未来，我们将看见，JavaScript和TypeScrip会出现在上面榜单的第一和第二的位置**！
+
+在一次柏林 JSConf EU 2019 的会议上， npm的联合创始人之一，Laurie，发表了一次《逃离 JavaScript，TypeScript 成新宠》的演讲，他表示，有些开发者并不把 JavaScript 当作自己的主力语言，尤其是使用 Java、C#和 C++等类型语言的开发者。现在这种趋势中占主导的是 TypeScript，去年有 46%的受访者在用它，今年竟然增长到了 63%之多。
+
+那么写 TypeScript 的用户中有多少是拿它当主力语言呢？52%。另外有 34%的用户偶尔会写。这意味着 36%的 npm 用户会经常写 TypeScript，多么惊人的事实啊——三分之一的 JavaScript 开发者再也不想用 JavaScript 了！
+
+![](programming language white paper/392ae7e63db6170738d786d614297e21.webp)
+
+
+
+在StackOverflow上，可以看见，在未来想要了解学习TypeScript的人还是不少的（占17%）
+
+![](programming language white paper/2021-06-26 12-06-08屏幕截图.png)
+
+不管你是否认为TypeScript是一个“全新改进的”JavaScript，都无法否认很多技术专家认为TypeScript在未来几年还有发展的空间。
+
+总的来说，Typescript将为开发人员带来便利，生产效率也会有所提升。重构、轻量级编辑器模式、语义突出显示、类型推理等一系列功能都将通过Typescript展示出来，而且TypeScript在各个排名中都在稳步上升，他在JavaScript的各个领域的表现，都将值得我们每一个人的期待！
+
+
+
 # 参考文献：
 
 1.  2021 Go 趋势报告（The State of Go）https://blog.jetbrains.com/go/2021/02/03/the-state-of-go/，作者：Ekaterina Zharova，译者：朱亚光
@@ -791,5 +851,6 @@ Python为什么会有这么强烈的增长趋势？人工智能，无疑是现�
 3.  The Developer Ecosystem in 2020: How C++ is Doing https://blog.jetbrains.com/clion/2020/06/dev-eco-cpp-2020/，作者：Anastasia Kazakova
 4.  C++ Language: Features, Uses, Applications & Advantages https://hackr.io/blog/features-uses-applications-of-c-plus-plus-language，作者：Aman Goel
 5.  Top 10 In-Demand programming languages to learn in 2020 https://towardsdatascience.com/top-10-in-demand-programming-languages-to-learn-in-2020-4462eb7d8d3e，作者：Md Kamaruzzaman
-6.  
+6.  Kotlin Census 2020 https://www.jetbrains.com/lp/kotlin-census-2020/
+7.  JavaScript:Who, What, Where, Why and Next https://2019.jsconf.eu/laurie-voss/javascript-who-what-where-why-and-next.html，作者Laurue Voss
 
